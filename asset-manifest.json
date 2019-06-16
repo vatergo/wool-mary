@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wool-mary/static/css/main.57ff0e35.chunk.css",
+    "main.js": "/wool-mary/static/js/main.980d67d7.chunk.js",
+    "main.js.map": "/wool-mary/static/js/main.980d67d7.chunk.js.map",
+    "runtime~main.js": "/wool-mary/static/js/runtime~main.4e5b67ed.js",
+    "runtime~main.js.map": "/wool-mary/static/js/runtime~main.4e5b67ed.js.map",
+    "static/js/2.c306511a.chunk.js": "/wool-mary/static/js/2.c306511a.chunk.js",
+    "static/js/2.c306511a.chunk.js.map": "/wool-mary/static/js/2.c306511a.chunk.js.map",
+    "index.html": "/wool-mary/index.html",
+    "precache-manifest.eb6aee4dcab565d8650d11d298d4da88.js": "/wool-mary/precache-manifest.eb6aee4dcab565d8650d11d298d4da88.js",
+    "service-worker.js": "/wool-mary/service-worker.js",
+    "static/css/main.57ff0e35.chunk.css.map": "/wool-mary/static/css/main.57ff0e35.chunk.css.map"
+  }
+}

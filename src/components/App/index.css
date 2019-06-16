@@ -1,8 +1,0 @@
-button {
-    transition: .1s;
-}
-
-button:hover {
-    transition: .1s;
-    background: #3a7792;
-}
