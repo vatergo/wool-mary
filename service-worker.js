@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wool-mary/precache-manifest.eb6aee4dcab565d8650d11d298d4da88.js"
+  "/wool-mary/precache-manifest.38dc25c0c9457c088514b071052c2198.js"
 );
 
 self.addEventListener('message', (event) => {
