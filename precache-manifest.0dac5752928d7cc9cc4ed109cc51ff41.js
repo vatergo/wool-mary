@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc9364089e946801d4c438ee106ce03e",
+    "revision": "5c55f1cbe579c0ea16c6fa6c16b93922",
     "url": "/wool-mary/index.html"
   },
   {
-    "revision": "d8f1e971a0a384ad6230",
+    "revision": "a5f11364dada997ffa19",
     "url": "/wool-mary/static/css/main.975ee4d8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wool-mary/static/js/2.7b1a1202.chunk.js"
   },
   {
-    "revision": "d8f1e971a0a384ad6230",
-    "url": "/wool-mary/static/js/main.77d7bbf3.chunk.js"
+    "revision": "a5f11364dada997ffa19",
+    "url": "/wool-mary/static/js/main.cb10075f.chunk.js"
   },
   {
     "revision": "32c3c157031f738a0993",
