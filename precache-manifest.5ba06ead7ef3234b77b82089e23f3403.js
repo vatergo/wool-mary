@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09e7b1486c13359dbd8b715ee45371ee",
+    "revision": "93b8b96095bf05cbdb0ea9c53f2d0f5b",
     "url": "/wool-mary/index.html"
   },
   {
